@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nikitin Bogdan Petrovich
+=======
+﻿Vasiliev Alexander Grigorievich
+>>>>>>> feature/listAlexander
